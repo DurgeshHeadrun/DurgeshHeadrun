@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Django,Python,Mysql AWS, HTML CS JS**
 
-- 👨‍💻 All of my projects are available at [www.dugu.me/dugu0011](www.dugu.me/dugu0011)
+- 👨‍💻 All of my projects are available at [www.dugu.me/dugu0011](www.github.me/dugu0011)
 
 - 📝 I regularly write articles on [https://www.dugu.me](https://www.dugu.me)
 
